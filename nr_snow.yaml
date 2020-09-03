@@ -1,0 +1,6 @@
+account_id: < NR Account ID>
+api_token: <NR API Key>
+log_level: Error
+snow_url: https://<Service Now URL>.service-now.com
+snow_login: <Service Now Login ID>
+snow_pwd: <Service Now Password>
